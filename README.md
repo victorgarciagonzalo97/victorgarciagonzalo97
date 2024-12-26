@@ -26,7 +26,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/victorgarcia-gonzalo/)
 </br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=victorgarciagonzalo97%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=victorgarciagonzalo97%40gmail.com&labelColor=black&color=%23EA4335)](mailto:victorgarciagonzalo97@gmail.com)
 
 
 <br>
